@@ -6,3 +6,4 @@
 # Останнім кроком відправте дані на сервер.
 print("Hello Tatyana!")
 print("I am doing my home work)")
+print("This is quite handy!")
